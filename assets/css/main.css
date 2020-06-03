@@ -1696,14 +1696,14 @@ textarea {
   padding: 0;
 }
 .post__tag > li > a {
-  background: var(--lighter);
-  border-radius: 1px;
+  background: darkred;
+  border-radius: 8px;
   color: var(--white);
   font-size: 0.7241964329rem;
   padding: 0.2833333333rem 0.85rem;
 }
 .post__tag > li > a:hover {
-  background: var(--light);
+  background: steelblue;
 }
 .post__share {
   display: -webkit-box;
