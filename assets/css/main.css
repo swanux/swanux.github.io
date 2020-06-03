@@ -158,17 +158,17 @@ body {
 }
 
 a {
-  color: var(--color);
+  color: white;
   text-decoration: none;
   -webkit-transition: all 0.24s ease-out;
   -o-transition: all 0.24s ease-out;
   transition: all 0.24s ease-out;
 }
 a:hover {
-  color: var(--dark);
+  color: var(--white);
 }
 a:active {
-  color: var(--dark);
+  color: var(--white);
 }
 a:focus {
   outline: none;
@@ -2101,7 +2101,7 @@ textarea {
   text-align: center;
 }
 .footer__social svg {
-  fill: var(--dark);
+  fill: var(--white);
   height: 0.9374999997rem;
   margin: 0 0.85rem;
   opacity: 0.6;
