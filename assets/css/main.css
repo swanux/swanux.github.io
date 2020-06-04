@@ -1414,7 +1414,7 @@ textarea {
   opacity: 1;
 }
 .navbar_mobile_sidebar__overlay {
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.85);
   height: 100%;
   opacity: 1;
   pointer-events: auto;
