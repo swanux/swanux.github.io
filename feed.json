@@ -9,25 +9,5 @@
         "name": "Swanux"
     },
     "items": [
-        {
-            "id": "https://swanux.github.io/hsuite.html",
-            "url": "https://swanux.github.io/hsuite.html",
-            "title": "HSuite",
-            "summary": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"This is my first program, it begun with a one-liner Bash script:\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1591187975042,\"type\":\"publii-code\",\"content\":\"sudo apt install snapd git python3 cmatrix sl mesa-utils wine software-properties-common python3-setuptools python3-gi python-gobject skype libreoffice steam 0ad virtualbox gparted python3-pip libreoffice-gtk3 dconf-editor etcher opera-stable vscode powertop cmatrix sl -y && cd Downloads &&&hellip;",
-            "content_html": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"This is my first program, it begun with a one-liner Bash script:\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1591187975042,\"type\":\"publii-code\",\"content\":\"sudo apt install snapd git python3 cmatrix sl mesa-utils wine software-properties-common python3-setuptools python3-gi python-gobject skype libreoffice steam 0ad virtualbox gparted python3-pip libreoffice-gtk3 dconf-editor etcher opera-stable vscode powertop cmatrix sl -y && cd Downloads && wget https://512pixels.net/downloads/macos-wallpapers/10-13.jpg && cd && gsettings set org.gnome.desktop.background picture-uri Downloads/10-13.jpg\",\"config\":{\"language\":\"bash\",\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1591187995799,\"type\":\"publii-paragraph\",\"content\":\"As I said, one simple and ugly line of shell script.\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1591188001557,\"type\":\"publii-paragraph\",\"content\":\"Now it's going to be the main place for all of my future projects. However it's main purpose to simplify everyday tasks (some part of it is for complete newcomers, others for regular users).\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1591198253543,\"type\":\"publii-gallery\",\"content\":{\"images\":[{\"src\":\"https://swanux.github.io/media/posts/1/gallery/1.png\",\"thumbnailSrc\":\"https://swanux.github.io/media/posts/1/gallery/1-thumbnail.png\",\"height\":393,\"width\":720,\"dimensions\":\"800x437\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://swanux.github.io/media/posts/1/gallery/2.png\",\"thumbnailSrc\":\"https://swanux.github.io/media/posts/1/gallery/2-thumbnail.png\",\"height\":393,\"width\":720,\"dimensions\":\"800x437\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://swanux.github.io/media/posts/1/gallery/3.png\",\"thumbnailSrc\":\"https://swanux.github.io/media/posts/1/gallery/3-thumbnail.png\",\"height\":393,\"width\":720,\"dimensions\":\"800x437\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://swanux.github.io/media/posts/1/gallery/4.png\",\"thumbnailSrc\":\"https://swanux.github.io/media/posts/1/gallery/4-thumbnail.png\",\"height\":393,\"width\":720,\"dimensions\":\"800x437\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://swanux.github.io/media/posts/1/gallery/5.png\",\"thumbnailSrc\":\"https://swanux.github.io/media/posts/1/gallery/5-thumbnail.png\",\"height\":459,\"width\":720,\"dimensions\":\"874x557\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://swanux.github.io/media/posts/1/gallery/6.png\",\"thumbnailSrc\":\"https://swanux.github.io/media/posts/1/gallery/6-thumbnail.png\",\"height\":459,\"width\":720,\"dimensions\":\"874x557\",\"alt\":\"\",\"caption\":\"\"}]},\"config\":{\"imageAlign\":\"center\",\"columns\":3,\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1591198249689,\"type\":\"publii-paragraph\",\"content\":\"<strong>HSuite includes:</strong><br>\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1591208604860,\"type\":\"publii-list\",\"content\":\"<li>App Spotlight</li><li>Distro Boutique</li><li>HSwitcher</li><li>HControl</li><li>Feedback</li>\",\"config\":{\"listType\":\"ul\",\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1591216217488,\"type\":\"publii-separator\",\"content\":false,\"config\":{\"type\":\"dots\",\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1591188328986,\"type\":\"publii-html\",\"content\":\"<form action=\\\"https://github.com/swanux/hsuite\\\">\\n    <input type=\\\"submit\\\" value=\\\"View on GitHub\\\" />\\n</form>\\n\",\"config\":{\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "author": {
-                "name": "Swanux"
-            },
-            "tags": [
-                   "HSwitcher",
-                   "HSuite",
-                   "HControl",
-                   "Feedbacks",
-                   "Distro Boutique",
-                   "App Spotlight"
-            ],
-            "date_published": "2020-06-03T14:49:26+02:00",
-            "date_modified": "2020-06-03T22:30:30+02:00"
-        }
     ]
 }
