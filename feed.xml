@@ -9,4 +9,32 @@
     </author>
     <id>https://swanux.github.io</id>
 
+    <entry>
+        <title>Initial post</title>
+        <author>
+            <name>Swanux</name>
+        </author>
+        <link href="https://swanux.github.io/initial-post.html"/>
+        <id>https://swanux.github.io/initial-post.html</id>
+            <category term="Announcement"/>
+
+        <updated>2020-09-12T11:12:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                     As the title says it's the first post on this website, despite the site itself is up for a while now. So why am I posting it now? It has two reasons. The first is, that finally I think that this site is ready&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    As the title says it's the first post on this website, despite the site itself is up for a while now. So why am I posting it now? It has two reasons. The first is, that finally I think that this site is ready to go (at least in Beta), so I decided to create an "Initial commit". The second is, that it feels bad to have an empty homepage, so I had to create a first post anyway, and now, with the beginning of September it's the time for it.
+  </p>
+
+  <p>
+    From now on, I'll try to use this website as the main platform for my projects, and use GitHub as a "backend" only.
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

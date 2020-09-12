@@ -518,7 +518,7 @@ hr::before,
 button {
   background: var(--color);
   border: 1px solid var(--color);
-  border-radius: 2px;
+  border-radius: 1px;
   -webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 1px rgba(0, 0, 0, 0.08);
           box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 1px rgba(0, 0, 0, 0.08);
   color: var(--white);
@@ -528,7 +528,7 @@ button {
   font-size: 0.6789341556rem;
   font-weight: var(--font-weight-bold);
   overflow: hidden;
-  padding: 0.5666666667rem 1.4166666667rem;
+  padding: 12px 30px;
   text-align: center;
   -webkit-transition: all 0.24s ease-out;
   -o-transition: all 0.24s ease-out;
@@ -2350,4 +2350,53 @@ textarea {
   -webkit-transform: none;
       -ms-transform: none;
           transform: none;
+}
+
+option[value="HSuite"] {
+  background: var(--dark)
+}
+
+option[value="HSite"] {
+  background: var(--dark)
+}
+
+option[value="HTidal"] {
+  background: var(--dark)
+}
+
+option[value="HRepo"] {
+  background: var(--dark)
+}
+
+option[value="HEnv"] {
+  background: var(--dark)
+}
+
+option[value="T440p"] {
+  background: var(--dark)
+}
+
+option[value="bug"] {
+  background: var(--dark)
+}
+
+option[value="enhancement"] {
+  background: var(--dark)
+}
+
+option[value="question"] {
+  background: var(--dark)
+}
+
+input,
+textarea,
+select {
+  color: white;
+  width: 100%;
+  background: var(--dark)
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid white;
+  border-radius: 20px;
 }
