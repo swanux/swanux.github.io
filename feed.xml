@@ -3,12 +3,49 @@
     <title>HSite</title>
     <link href="https://swanux.github.io/feed.xml" rel="self" />
     <link href="https://swanux.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2020-10-02T22:26:44+02:00</updated>
     <author>
         <name>Swanux</name>
     </author>
     <id>https://swanux.github.io</id>
 
+    <entry>
+        <title>HTidal 0.1 Beta Released</title>
+        <author>
+            <name>Swanux</name>
+        </author>
+        <link href="https://swanux.github.io/htidal-01-beta-released.html"/>
+        <id>https://swanux.github.io/htidal-01-beta-released.html</id>
+            <category term="Release"/>
+            <category term="HTidal"/>
+
+        <updated>2020-10-02T22:26:44+02:00</updated>
+            <summary>
+                <![CDATA[
+                     I'm glad to finally announce my newest project: HTidal! If you would like to read more about it or view it on GitHub, you can visit the project page of it. So let's talk about the release itself. It's the initial release of the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    I'm glad to finally announce my newest project: <strong>HTidal</strong>! If you would like to read more about it or view it on GitHub, you can visit the <a href="https://swanux.github.io/htidal.html">project page</a> of it.
+  </p>
+
+  <p>
+    So let's talk about the release itself. It's the initial release of the program, so don't expect it to be completely stable and ready. It has nearly 100% functionality (home screen is missing) and I've tested it, so there shouldn't be serious bugs in it. If you encounter any problems, or you have any ideas then feel free to provide your <a href="https://swanux.github.io/feedbacks.html">feedback</a>.&nbsp;
+  </p>
+
+  <p>
+    You can either download the DEB package or install it from <a href="https://swanux.github.io/hrepo.html">my APT repo</a>&nbsp;to get automatic updates.
+  </p>
+<hr class="separator separator--dots" />
+<div><form action="https://github.com/swanux/htidal/blob/master/PKGS/htidal_0.1.4-1_amd64.deb">
+    <input type="submit" value="Download DEB package" />
+</form></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Initial post</title>
         <author>
@@ -18,7 +55,7 @@
         <id>https://swanux.github.io/initial-post.html</id>
             <category term="Announcement"/>
 
-        <updated>2020-09-13T13:15:05+02:00</updated>
+        <updated>2020-09-05T17:59:00+02:00</updated>
             <summary>
                 <![CDATA[
                      As the title says it's the first post on this website, despite the site itself is up for a while now. So why am I posting it now? It has two reasons. The first is, that finally I think that this site is ready&hellip;
