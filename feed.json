@@ -14,7 +14,7 @@
             "url": "https://swanux.github.io/htidal-01-beta-released.html",
             "title": "HTidal 0.1 Beta Released",
             "summary": " I'm glad to finally announce my newest project: HTidal! If you would like to read more about it or view it on GitHub, you can visit the project page of it. So let's talk about the release itself. It's the initial release of the&hellip;",
-            "content_html": "\n  <p>\n    I'm glad to finally announce my newest project: <strong>HTidal</strong>! If you would like to read more about it or view it on GitHub, you can visit the <a href=\"https://swanux.github.io/htidal.html\">project page</a> of it.\n  </p>\n\n  <p>\n    So let's talk about the release itself. It's the initial release of the program, so don't expect it to be completely stable and ready. It has nearly 100% functionality (home screen is missing) and I've tested it, so there shouldn't be serious bugs in it. If you encounter any problems, or you have any ideas then feel free to provide your <a href=\"https://swanux.github.io/feedbacks.html\">feedback</a>.&nbsp;\n  </p>\n\n  <p>\n    You can either download the DEB package or install it from <a href=\"https://swanux.github.io/hrepo.html\">my APT repo</a>&nbsp;to get automatic updates.\n  </p>\n<hr class=\"separator separator--dots\" />\n<div><form action=\"https://raw.githubusercontent.com/swanux/htidal/master/PKGS/htidal_0.1.4-1_amd64.deb\">\n    <input type=\"submit\" value=\"Download DEB package\" />\n</form></div>",
+            "content_html": "\n  <p>\n    I'm glad to finally announce my newest project: <strong>HTidal</strong>! If you would like to read more about it or view it on GitHub, you can visit the <a href=\"https://swanux.github.io/htidal.html\">project page</a> of it.\n  </p>\n\n  <p>\n    So let's talk about the release itself. It's the initial release of the program, so don't expect it to be completely stable and ready. It has nearly 100% functionality (home screen is missing) and I've tested it, so there shouldn't be serious bugs in it. If you encounter any problems, or you have any ideas then feel free to provide your <a href=\"https://swanux.github.io/feedbacks.html\">feedback</a>.&nbsp;\n  </p>\n\n  <p>\n    You can either download the DEB package or install it from <a href=\"https://swanux.github.io/hrepo.html\">my APT repo</a>&nbsp;to get automatic updates.\n  </p>\n<hr class=\"separator separator--dots\" />\n<div><form action=\"https://github.com/swanux/htidal/releases/download/v0.1.4/htidal_0.1.4-1_amd64.deb\">\n    <input type=\"submit\" value=\"Download DEB package\" />\n</form></div>",
             "author": {
                 "name": "Swanux"
             },
@@ -23,7 +23,7 @@
                    "HTidal"
             ],
             "date_published": "2020-09-26T12:31:14+02:00",
-            "date_modified": "2020-10-03T11:58:34+02:00"
+            "date_modified": "2020-10-11T11:51:12+02:00"
         },
         {
             "id": "https://swanux.github.io/initial-post.html",

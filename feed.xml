@@ -3,7 +3,7 @@
     <title>HSite</title>
     <link href="https://swanux.github.io/feed.xml" rel="self" />
     <link href="https://swanux.github.io" />
-    <updated>2020-10-03T11:58:34+02:00</updated>
+    <updated>2020-10-11T11:51:12+02:00</updated>
     <author>
         <name>Swanux</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Release"/>
             <category term="HTidal"/>
 
-        <updated>2020-10-03T11:58:34+02:00</updated>
+        <updated>2020-10-11T11:51:12+02:00</updated>
             <summary>
                 <![CDATA[
                      I'm glad to finally announce my newest project: HTidal! If you would like to read more about it or view it on GitHub, you can visit the project page of it. So let's talk about the release itself. It's the initial release of the&hellip;
@@ -40,7 +40,7 @@
     You can either download the DEB package or install it from <a href="https://swanux.github.io/hrepo.html">my APT repo</a>&nbsp;to get automatic updates.
   </p>
 <hr class="separator separator--dots" />
-<div><form action="https://raw.githubusercontent.com/swanux/htidal/master/PKGS/htidal_0.1.4-1_amd64.deb">
+<div><form action="https://github.com/swanux/htidal/releases/download/v0.1.4/htidal_0.1.4-1_amd64.deb">
     <input type="submit" value="Download DEB package" />
 </form></div>
             ]]>
