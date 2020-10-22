@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://swanux.github.io/hsuite-v081-released.html",
+            "url": "https://swanux.github.io/hsuite-v081-released.html",
+            "title": "HSuite v0.8.1 released",
+            "summary": " Maintenance release for LTS v0.8. Changes: Added new Feedback option (HTidal) Improved development tools Added Publii, HTidal, VLC, Transmission and Meld Fixed theme releated problems Added own opera-codecs ",
+            "content_html": "\n  <p>\n    Maintenance release for LTS v0.8.\n  </p>\n\n  <p>\n    <strong>Changes</strong>:\n  </p>\n\n  <ul>\n    <li>Added new Feedback option (HTidal)<br></li><li>Improved development tools<br></li><li>Added Publii, HTidal, VLC, Transmission and Meld<br></li><li>Fixed theme releated problems<br></li><li>Added own opera-codecs</li>\n  </ul>\n<div><form action=\"https://github.com/swanux/hsuite/releases/download/v0.8.1/hsuite_0.8.1-1_amd64.deb\">\n    <input type=\"submit\" value=\"Download DEB package\" />\n</form></div>",
+            "author": {
+                "name": "Swanux"
+            },
+            "tags": [
+                   "Release",
+                   "HSuite"
+            ],
+            "date_published": "2020-10-22T17:44:43+02:00",
+            "date_modified": "2020-10-22T17:45:13+02:00"
+        },
+        {
             "id": "https://swanux.github.io/htidal-01-beta-released.html",
             "url": "https://swanux.github.io/htidal-01-beta-released.html",
             "title": "HTidal 0.1 Beta Released",
