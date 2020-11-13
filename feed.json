@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://swanux.github.io/htidal-015-beta-released.html",
+            "url": "https://swanux.github.io/htidal-015-beta-released.html",
+            "title": "HTidal 0.1.5 Beta released",
+            "summary": " Today I've finished working on the Snapshot 5 release of the program. It has nothing revolutionary new, but the user experience has improved a lot (at least in my opinion) Changes: You'll receive the update automatically if you've added hrepo to your system. Otherwise,&hellip;",
+            "content_html": "\n  <p>\n    Today I've finished working on the <strong>Snapshot 5</strong> release of the program. It has nothing revolutionary new, but the user experience has improved a lot (at least in my opinion)\n  </p>\n\n  <p>\n    <strong>Changes:</strong>\n  </p>\n\n  <ul>\n    <li>Fixed minor bugs</li><li>Added new about section</li><li>Improved GUI usability</li><li>Updated deprecated code</li><li>Added play option to artist top/album/playlist views</li>\n  </ul>\n\n  <p>\n    You'll receive the update automatically if you've added <a href=\"https://swanux.github.io/hrepo.html\">hrepo</a> to your system. Otherwise, you can download it manually.\n  </p>\n<div><form action=\"https://github.com/swanux/htidal/releases/download/v0.1.5/htidal_0.1.5-1_amd64.deb\">\n    <input type=\"submit\" value=\"Download DEB package\" />\n</form></div>",
+            "author": {
+                "name": "Swanux"
+            },
+            "tags": [
+                   "Release",
+                   "HTidal"
+            ],
+            "date_published": "2020-11-13T14:11:48+01:00",
+            "date_modified": "2020-11-13T14:13:34+01:00"
+        },
+        {
             "id": "https://swanux.github.io/hsuite-v081-released.html",
             "url": "https://swanux.github.io/hsuite-v081-released.html",
             "title": "HSuite v0.8.1 released",
