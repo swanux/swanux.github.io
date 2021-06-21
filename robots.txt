@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://swanux.github.io/sitemap.xml
