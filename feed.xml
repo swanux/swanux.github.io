@@ -3,7 +3,7 @@
     <title>HSite</title>
     <link href="https://swanux.github.io/feed.xml" rel="self" />
     <link href="https://swanux.github.io" />
-    <updated>2021-07-16T11:52:33+02:00</updated>
+    <updated>2021-07-16T12:03:52+02:00</updated>
     <author>
         <name>Swanux</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Release"/>
             <category term="HBud"/>
 
-        <updated>2021-07-16T11:52:33+02:00</updated>
+        <updated>2021-07-16T12:03:52+02:00</updated>
             <summary>
                 <![CDATA[
                      This is the first public release of HBud. You can visit the GitHub page&nbsp;for more information and changelog. You can either add my APT repo to your system for automatic updates, or you can download the latest DEB package manually below. 
@@ -35,6 +35,7 @@
   <p>
     You can either add <a href="https://swanux.github.io/hrepo.html">my APT repo</a> to your system for automatic updates, or you can download the latest DEB package manually below.
   </p>
+<hr class="separator separator--dots" />
 <div><form action="https://github.com/swanux/hbud/releases/download/v0.1.5/hbud_0.1.5.5-1_amd64.deb">
     <input type="submit" value="Download DEB package" />
 </form></div>
