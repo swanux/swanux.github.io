@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://swanux.github.io/hbud-alpha-015-released.html",
+            "url": "https://swanux.github.io/hbud-alpha-015-released.html",
+            "title": "HBud Alpha 0.1.5 Released",
+            "summary": " This is the first public release of HBud. You can visit the GitHub page&nbsp;for more information and changelog. You can either add my APT repo to your system for automatic updates, or you can download the latest DEB package manually below. ",
+            "content_html": "\n  <p>\n    This is the first public release of <a href=\"https://swanux.github.io/hbud.html\">HBud</a>. You can visit the <a href=\"https://github.com/swanux/hbud\" class=\"\" target=\"_blank\">GitHub page</a>&nbsp;for more information and changelog.\n  </p>\n\n  <p>\n    You can either add <a href=\"https://swanux.github.io/hrepo.html\">my APT repo</a> to your system for automatic updates, or you can download the latest DEB package manually below.\n  </p>\n<div><form action=\"https://github.com/swanux/hbud/releases/download/v0.1.5/hbud_0.1.5.5-1_amd64.deb\">\n    <input type=\"submit\" value=\"Download DEB package\" />\n</form></div>",
+            "author": {
+                "name": "Swanux"
+            },
+            "tags": [
+                   "Release",
+                   "HBud"
+            ],
+            "date_published": "2021-07-16T11:47:36+02:00",
+            "date_modified": "2021-07-16T11:52:33+02:00"
+        },
+        {
             "id": "https://swanux.github.io/htidal-015-beta-released.html",
             "url": "https://swanux.github.io/htidal-015-beta-released.html",
             "title": "HTidal 0.1.5 Beta released",
