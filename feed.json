@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://swanux.github.io/hbud-alpha-015-released-2.html",
+            "url": "https://swanux.github.io/hbud-alpha-015-released-2.html",
+            "title": "HBud Beta 0.2.1 Released",
+            "summary": " This is the first beta release of HBud (codename Yennefer), which means a lots of new features, improvements and fixes. Here are the changes: And with all these new features, the code itself still got shorter. You can either add my APT repo to&hellip;",
+            "content_html": "\n  <p>\n    This is the first beta release of HBud (codename Yennefer), which means a lots of new features, improvements and fixes. Here are the changes:\n  </p>\n\n  <ul>\n    <li>Bugfixes and quality improvements</li><li>Optimized stability and performane</li><li>Added online lyric support (static lyric)</li><li>Added AppImage build</li><li>Added a lots of small comfort functions</li><li>Now showing both elapsed and remaining time</li><li>Added optional rounded corners (why not?)</li><li>Own widgets instead of TreeView (improved visuals, stability and performance)</li><li>Added new drag and drop support</li><li>Added new keyboard controls (Up, Down, Left, Right, Del, F11, ESC)</li><li>Added option to save playlist order (speeds up loading time too) - rescan to append new tracks</li><li>Added proper sort method (multiple options)</li><li>Added search method</li>\n  </ul>\n\n  <p>\n    And with all these new features, the code itself still got shorter.\n  </p>\n\n  <p>\n    You can either add <a href=\"https://swanux.github.io/hrepo.html\">my APT repo</a> to your system for automatic updates, or you can download the latest DEB package or AppImage manually below.\n  </p>\n<hr class=\"separator separator--dots\" />\n<div><form action=\"https://github.com/swanux/hbud/releases/download/v0.2.1/hbud_0.2.1.2-1_amd64.deb\">\n    <input type=\"submit\" value=\"Download DEB package\" />\n</form></div>\n<div><form action=\"https://github.com/swanux/hbud/releases/download/v0.2.1/HBud-0.2.1.2-x86_64.AppImage\">\n    <input type=\"submit\" value=\"Download AppImage\" />\n</form></div>",
+            "author": {
+                "name": "Swanux"
+            },
+            "tags": [
+                   "Release",
+                   "HBud"
+            ],
+            "date_published": "2021-08-22T14:36:02+02:00",
+            "date_modified": "2021-08-22T14:45:40+02:00"
+        },
+        {
             "id": "https://swanux.github.io/hbud-alpha-015-released.html",
             "url": "https://swanux.github.io/hbud-alpha-015-released.html",
             "title": "HBud Alpha 0.1.5 Released",

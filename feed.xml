@@ -3,12 +3,56 @@
     <title>HSite</title>
     <link href="https://swanux.github.io/feed.xml" rel="self" />
     <link href="https://swanux.github.io" />
-    <updated>2021-07-16T12:03:52+02:00</updated>
+    <updated>2021-08-22T14:45:40+02:00</updated>
     <author>
         <name>Swanux</name>
     </author>
     <id>https://swanux.github.io</id>
 
+    <entry>
+        <title>HBud Beta 0.2.1 Released</title>
+        <author>
+            <name>Swanux</name>
+        </author>
+        <link href="https://swanux.github.io/hbud-alpha-015-released-2.html"/>
+        <id>https://swanux.github.io/hbud-alpha-015-released-2.html</id>
+            <category term="Release"/>
+            <category term="HBud"/>
+
+        <updated>2021-08-22T14:45:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                     This is the first beta release of HBud (codename Yennefer), which means a lots of new features, improvements and fixes. Here are the changes: And with all these new features, the code itself still got shorter. You can either add my APT repo to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This is the first beta release of HBud (codename Yennefer), which means a lots of new features, improvements and fixes. Here are the changes:
+  </p>
+
+  <ul>
+    <li>Bugfixes and quality improvements</li><li>Optimized stability and performane</li><li>Added online lyric support (static lyric)</li><li>Added AppImage build</li><li>Added a lots of small comfort functions</li><li>Now showing both elapsed and remaining time</li><li>Added optional rounded corners (why not?)</li><li>Own widgets instead of TreeView (improved visuals, stability and performance)</li><li>Added new drag and drop support</li><li>Added new keyboard controls (Up, Down, Left, Right, Del, F11, ESC)</li><li>Added option to save playlist order (speeds up loading time too) - rescan to append new tracks</li><li>Added proper sort method (multiple options)</li><li>Added search method</li>
+  </ul>
+
+  <p>
+    And with all these new features, the code itself still got shorter.
+  </p>
+
+  <p>
+    You can either add <a href="https://swanux.github.io/hrepo.html">my APT repo</a> to your system for automatic updates, or you can download the latest DEB package or AppImage manually below.
+  </p>
+<hr class="separator separator--dots" />
+<div><form action="https://github.com/swanux/hbud/releases/download/v0.2.1/hbud_0.2.1.2-1_amd64.deb">
+    <input type="submit" value="Download DEB package" />
+</form></div>
+<div><form action="https://github.com/swanux/hbud/releases/download/v0.2.1/HBud-0.2.1.2-x86_64.AppImage">
+    <input type="submit" value="Download AppImage" />
+</form></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>HBud Alpha 0.1.5 Released</title>
         <author>
